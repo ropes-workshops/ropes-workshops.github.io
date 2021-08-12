@@ -1,12 +1,16 @@
 # Workshop Proposal: Participant Recruitment for SE Studies (PROSE)
 
 
-# Abstract (200 words or fewer), suited for the ICSE 2022 website
+# Abstract
+All else being equal, scientific studies generate stronger conclusions when more particiapnts are involved. For positivist, frequentist approaches, the ability to detect an effect is directly related to the number of subjects tested*.
+However, finding relevant human subjects for studies is challenging. Our field is composed of many highly skilled and highly compensated professionals. Many studies focus on very specific topics with limited populations. Reliance on students may not be appropriate. 
 
-# Contact Information for all workshop organizers, including the main contact person
+* there are many many other possible problems beyond absolute magnitude of N, of course!
+
+# Organizer Contact Information
 * Neil Ernst
 * Jeff Carver
-
+* ... tbd
 
 
 # Motivation and Objectives
