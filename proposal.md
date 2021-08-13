@@ -12,6 +12,34 @@ However, finding relevant human subjects for studies is challenging. Our field i
 * Jeff Carver
 * ... tbd
 
+## Interested Parties
+* [Matthew Smith, Bonn]()
+* [Jeff Carver, Alabama]()
+* [Valentina Lenarduzzi, TUE]()
+* [Bonita Sharif]()
+* [Fabiano Dalpiaz]()
+* [Nicole Novielli]()
+* [Alexander Serebrenik]()
+* [Andy Zaidman]()
+* [ALberto Bacchelli]()
+* [Davide Fucci]()
+* [Kelly Blincoe]()
+* [Tamara Lopez, OU]()
+* [Fabian Gilson, UC NZ]()
+* [Igor Wiese]()
+* [Kevin Moran]()
+* [Melina Vidoni]()
+* [Richard Paige]()
+* [David Shepherd]()
+* [Paul Ralph]()
+* [Daniel Méndez]
+* [Janet Siegmund]()
+* 
+
+
+Curious
+* Fabiano Dalpiaz
+* Bonita Sharif
 
 # Motivation and Objectives
 - Software studies benefit when more high quality participants are recruited. However, participant recruitment is challenging. There are new tools (Mechanical Turk, Prolific)
