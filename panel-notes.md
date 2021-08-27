@@ -58,6 +58,7 @@ Recruitment Workshop Brainstorming
 * community development manager e.g. at ROS, Linux Foundation etc
 * Chris Bird, Ciera Jaspan, etc. researchers at MSFT, Google, Jetbrains
 * Successful industry-partnered researchers (e.g. Gorschek, Runeson)
+* [Jason Jacques](https://jsonj.co.uk/science) crowdwork expert at Cam
 
 # Submission formats
 (tend to favor informal, 2-4 page submissions)
@@ -92,3 +93,5 @@ Recruitment Workshop Brainstorming
 * Feldt et al., "[Four commentaries on the use of students and professionals in empirical software engineering experiments](https://doi.org/10.1007/s10664-018-9655-0)"
 * Lakens, ["Sample Size Justification"](https://psyarxiv.com/9d3yf/)
 * Baltes and Ralph, ["Sampling in Software Engineering Research: A Critical Review and Guidelines"](https://arxiv.org/abs/2002.07764)
+* ["Information Visualization Evaluation Using Crowdsourcing"](https://www.microsoft.com/en-us/research/uploads/prod/2018/05/InfoVis-Crowdsourcing-CGF2018.pdf) - how to run better crowdsourcing evaluations
+* ["Microdiversions to improve task attention"](https://dl.acm.org/doi/abs/10.1145/2675133.2675260)
