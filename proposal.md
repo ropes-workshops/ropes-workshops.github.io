@@ -1,8 +1,8 @@
-# Workshop Proposal: Participant Recruitment for SE Studies (PROSE)
+# Workshop Proposal: Recruitment of Participants  for Empirical SE Studies (RoPES 22)
 
 
 # Abstract
-All else being equal, scientific studies generate stronger conclusions when more particiapnts are involved. For positivist, frequentist approaches, the ability to detect an effect is directly related to the number of subjects tested*.
+All else being equal, scientific studies generate stronger conclusions when more participants are involved. For positivist, frequentist approaches, the ability to detect an effect is directly related to the number of subjects tested*.
 However, finding relevant human subjects for studies is challenging. Our field is composed of many highly skilled and highly compensated professionals. Many studies focus on very specific topics with limited populations. Reliance on students may not be appropriate. 
 
 * there are many many other possible problems beyond absolute magnitude of N, of course!
