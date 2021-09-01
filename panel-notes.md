@@ -95,3 +95,5 @@ Recruitment Workshop Brainstorming
 * Baltes and Ralph, ["Sampling in Software Engineering Research: A Critical Review and Guidelines"](https://arxiv.org/abs/2002.07764)
 * ["Information Visualization Evaluation Using Crowdsourcing"](https://www.microsoft.com/en-us/research/uploads/prod/2018/05/InfoVis-Crowdsourcing-CGF2018.pdf) - how to run better crowdsourcing evaluations
 * ["Microdiversions to improve task attention"](https://dl.acm.org/doi/abs/10.1145/2675133.2675260)
+* Matthias Hirth1, Jason Jacques2, Peter Rodgers3, Ognjen Scekic4, and Michael Wybrow5, ["Crowdsourcing Technology to Support Academic Research"](https://jsonj.co.uk/resources/science/papers/dagstuhl-technology-chapter.pdf)
+* Jason T. Jacques and Per Ola Kristensson. 2021. ["Studying Programmer Behaviour at Scale: A Case Study Using Amazon Mechanical Turk"](https://jsonj.co.uk/resources/science/papers/px21-prog-behaviour.pdf). Programming 2021.
