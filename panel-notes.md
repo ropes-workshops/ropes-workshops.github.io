@@ -97,3 +97,4 @@ Recruitment Workshop Brainstorming
 * ["Microdiversions to improve task attention"](https://dl.acm.org/doi/abs/10.1145/2675133.2675260)
 * Matthias Hirth1, Jason Jacques2, Peter Rodgers3, Ognjen Scekic4, and Michael Wybrow5, ["Crowdsourcing Technology to Support Academic Research"](https://jsonj.co.uk/resources/science/papers/dagstuhl-technology-chapter.pdf)
 * Jason T. Jacques and Per Ola Kristensson. 2021. ["Studying Programmer Behaviour at Scale: A Case Study Using Amazon Mechanical Turk"](https://jsonj.co.uk/resources/science/papers/px21-prog-behaviour.pdf). Programming 2021.
+* Valentina Lenarduzzi, Oscar Dieste, Davide Fucci, Sira Vegas, ["Towards a Methodology for Participant Selection in Software Engineering Experiments. A Vision of the Future"](https://arxiv.org/abs/2108.12411)
