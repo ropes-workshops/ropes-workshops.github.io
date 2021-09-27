@@ -13,9 +13,9 @@ subtitle: Official web page of the first edition of the ROPES international work
 
 ## Theme & Goals
 
-Software studies, and the field of software engineering research, benefit from the use of high numbers of quality participants. However, participant recruitment is challenging. Recruiting people from open source projects often involves ethical hurdles like privacy protection (Gold2020), or participant fatigue from being over-researched](https://speakerdeck.com/gousiosg/the-number-issue32-incident). Using students can be helpful, but also suffers from generalizability to the wider software developer population (Feldt et al. 2018). On top of this, challenges due to pandemic-related health measures have made in-person studies even more difficult to conduct. Finally, the maturity of our community in understanding sampling issues (Baltes and Ralph), and the associated power calculations, effect size measurements etc. derived from samples can always be improved (de Oliveira Neto et al., 2019).
+Software studies, and the field of software engineering research, benefit from the use of high numbers of quality participants. However, participant recruitment is challenging. Recruiting people from open source projects often involves ethical hurdles like privacy protection [^Gold2020], or participant [fatigue from being over-researched](https://speakerdeck.com/gousiosg/the-number-issue32-incident). Using students can be helpful, but also suffers from generalizability to the wider software developer population [^Feldt]. On top of this, challenges due to pandemic-related health measures have made in-person studies even more difficult to conduct. Finally, the maturity of our community in understanding sampling issues [^Baltes], and the associated power calculations, effect size measurements etc. derived from samples can always be improved [^Neto].
 
-There are also new, potentially useful tools for crowd-sourcing research, such as Mechanical Turk, or Prolific, but these tools are typically not used very often, and when they are, require careful study organization to prevent bias and flawed sampling. Other communities, such as HCI and psychology, do have extensive knowledge of how to use these tools, but may not have similar expertise requirements of their subjects.
+There are also new, potentially useful tools for crowd-sourcing research, such as Mechanical Turk, or Prolific, but these tools are typically not used very often, and when they are, require careful study organization to prevent bias and flawed sampling [^Danilova]. Other communities, such as HCI and psychology, do have extensive knowledge of how to use these tools, but may not have similar expertise requirements of their subjects.
 
 ## Topics of Interest
 
@@ -99,3 +99,14 @@ The workshop outcome will be an extended workshop summary for a venue such as So
 
 ### Format
 Please follow the [ICSE formatting guidelines](https://conf.researchr.org/track/icse-2022/icse-2022-papers#Call-for-Papers) but anonymization is not required. 
+
+# References
+[^Gold2020]: Nicolas E. Gold and Jens Krinke. 2020. Ethical Mining. InProceedings of the 17th International Conference on Mining Software Repositories. ACM.   https://doi.org/10.1145/3379597.33874623
+
+[^Baltes]: Sebastian Baltes and Paul Ralph. 2020. Sampling in Software Engineering Research: A Critical Review and Guidelines. CoRRabs/2002.07764 (2020). https://arxiv.org/abs/2002.07764
+
+[^Neto]: Francisco Gomes de Oliveira Neto, Richard Torkar, Robert Feldt, Lucas Gren,Carlo A. Furia, and Ziwei Huang. 2019. Evolution of statistical analysis in empiricalsoftware engineering research: Current state and steps forward. Journal of Systemsand Software 156 (Oct. 2019), 246–267.  https://doi.org/10.1016/j.jss.2019.07.002
+
+[^Feldt]: Robert Feldt, Thomas Zimmermann, Gunnar R. Bergersen, Davide Falessi, AndreasJedlitschka, Natalia Juristo, Jürgen Münch, Markku Oivo, Per Runeson, MartinShepperd, Dag I. K. Sjøberg, and Burak Turhan. 2018. Four commentaries on theuse of students and professionals in empirical software engineering experiments.Empirical Software Engineering23, 6 (Nov. 2018), 3801–3820.  https://doi.org/10.1007/s10664-018-9655-0
+
+[^Danilova]: Anastasia Danilova, Alena Naiakshina, Stefan Horstmann, and Matthew Smith. 2021.  Do you Really Code? Designing and Evaluating Screening Questions forOnline Surveys with Programmers. In2021 IEEE/ACM 43rd International Conferenceon Software Engineering (ICSE). IEEE.  https://doi.org/10.1109/icse43902.2021.0005
