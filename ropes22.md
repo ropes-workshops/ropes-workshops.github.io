@@ -78,11 +78,12 @@ Workshop papers must follow the [ICSE 2021 Format and Submission Guideline](http
 | Name | Affil | Twitter |
 | --- | --- | --- |
  |   Neil Ernst  | U. Victoria | [@neilernst](https://twitter.com/neilernst)  | 
- |    Jeffrey C. Carver  | U. Alabama |  https://twitter.com/aserebrenik  |  
- |    Carianne Pretorius | TU Eindhoven | https://twitter.com/aserebrenik  | 
- |   Preetha Chatterjee | Drexel U. | https://twitter.com/aserebrenik |  
+ |    Jeffrey C. Carver  | U. Alabama |  [@JeffCarver32](https://twitter.com/JeffCarver32)  |  
+ |    Carianne Pretorius | TU Eindhoven | [@cari_pretorius](https://twitter.com/cari_pretorius)  | 
+ |   Preetha Chatterjee | Drexel U. | [@PreethaChatterj](https://twitter.com/PreethaChatterj) |  
  |   Alexander Serebrenik | TU Eindhoven | [@aserebrenik](https://twitter.com/aserebrenik) | 
  |   Bonita Sharif | Nebraska | [@shbonita](https://twitter.com/shbonita)  | 
+ | Matthew Smith | Bonn | [@m42smith](https://twitter.com/m42smith) | 
 
 ## Program Committee 
 TBD
