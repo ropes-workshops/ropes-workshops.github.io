@@ -58,7 +58,7 @@ Times will be Eastern Standard Time (EST, UTC-5)
 | 1:30PM | Session 2: Keeping Participants | |
 | 3:00 PM | *Break* ||
 | 3:15 PM | Session 3: Paper Brainstorming | Organizers|
-| 05:45 | *End of RoPES 2021* | |
+| 05:45 | *End of RoPES 2022* | |
 
 ## Submission Guidelines 
 
