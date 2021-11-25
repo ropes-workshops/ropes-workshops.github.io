@@ -11,7 +11,18 @@ Currently, the RoPES Steering Committee consists of the following members:
 -->
 
 # Organization Committee Members
-The RoPES organization committee organizes the individual workshops and takes care of attacting relevant and interesting publications. We thank the current and former organization committee members for support of RoPES:
+The RoPES organization committee organizes the individual workshops and takes care of attracting relevant and interesting publications. We thank the current and former organization committee members for support of RoPES:
+
+| Name | Affil | Twitter |
+| --- | --- | --- |
+ |   Neil Ernst  | U. Victoria | [@neilernst](https://twitter.com/neilernst)  | 
+ |    Jeffrey C. Carver  | U. Alabama |  [@JeffCarver32](https://twitter.com/JeffCarver32)  |  
+ |    Carianne Pretorius | TU Eindhoven | [@cari_pretorius](https://twitter.com/cari_pretorius)  | 
+ |   Preetha Chatterjee | Drexel U. | [@PreethaChatterj](https://twitter.com/PreethaChatterj) |  
+ |   Alexander Serebrenik | TU Eindhoven | [@aserebrenik](https://twitter.com/aserebrenik) | 
+ |   Bonita Sharif | Nebraska | [@shbonita](https://twitter.com/shbonita)  | 
+ | Matthew Smith | Bonn | [@m42smith](https://twitter.com/m42smith) | 
+
 
 
 

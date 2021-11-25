@@ -1,4 +1,7 @@
-Recruitment Workshop Brainstorming
+---
+title: Recruitment Workshop Brainstorming at FSE 2021
+author: nernst
+---
 
 # Recruitment Problems 
 - sample size: we need to get more subjects to have more confidence in the results.

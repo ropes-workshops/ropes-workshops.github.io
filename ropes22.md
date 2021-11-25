@@ -86,7 +86,31 @@ Workshop papers must follow the [ICSE 2021 Format and Submission Guideline](http
  | Matthew Smith | Bonn | [@m42smith](https://twitter.com/m42smith) | 
 
 ## Program Committee 
-TBD
+The OC + the following generous individuals below:
+
+| First name | Last name       | Organization                                                   | Social Media                                  |
+| ---------- | --------------- | -------------------------------------------------------------- | --------------------------------------------- |
+| Alex       | Bezzubov        | JetBrains                                                      |                                               |
+| Christian  | Bird            | Microsoft                                                      |                                               |
+| Kelly      | Blincoe         | The University of Auckland                                     |                                               |
+| Fabiano    | Dalpiaz         | Utrecht University                                             |                                               |
+| Anastasia  | Danilova        | University of Bonn                                             |                                               |
+| Felipe     | Ebert           | Eindhoven University of Technology                             |                                               |
+| Felipe     | Fronchetti      | Virginia Commonwealth University                               |                                               |
+| Davide     | Fucci           | HITeC, University of Hamburg                                   |                                               |
+| Fabian     | Gilson          | University of Canterbury                                       |                                               |
+| Valentina  | Lenarduzzi      | LUT University                                                 |                                               |
+| Daniel     | Mendez          | Blekinge Institute of Technology, Sweden, and fortiss, Germany |                                               |
+| Kevin      | Moran           | College of William & Mary                                      |                                               |
+| Nicole     | Novielli        | Dipartimento di Informatica, University of Bari                |                                               |
+| Richard    | Paige           | McMaster University                                            |                                               |
+| Paul       | Ralph           | Dalhousie University                                           |                                               |
+| Martin     | Robillard       | McGill University                                              |                                               |
+| Daniel     | Russo           | Department of Computer Science, Aalborg University             |                                               |
+| Igor       | Scaliante Wiese | Federal University of Technology – Paraná - UTFPR              |                                               |
+| Janet      | Siegmund        | Chemnitz University of Technology                              |                                               |
+| Melina     | Vidoni          | Australian National University, CECS School of Computing       |                                               |
+| Andy       | Zaidman         | Delft University of Technology                                 |
 
 ## Call for Papers 
 People are invited to submit short, 2 page papers that encompass the following categories and pertain to the workshop themes:
