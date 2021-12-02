@@ -126,7 +126,7 @@ The workshop outcome will be an extended workshop summary for a venue such as So
 Please follow the [ICSE formatting guidelines](https://conf.researchr.org/track/icse-2022/icse-2022-papers#Call-for-Papers) but anonymization is not required. 
 
 # References
-[^Gold2020]: Nicolas E. Gold and Jens Krinke. 2020. Ethical Mining. InProceedings of the 17th International Conference on Mining Software Repositories. ACM.   https://doi.org/10.1145/3379597.33874623
+[^Gold2020]: Nicolas E. Gold and Jens Krinke. 2020. Ethical Mining. InProceedings of the 17th International Conference on Mining Software Repositories. ACM.   https://doi.org/10.1145/3379597.3387462
 
 [^Baltes]: Sebastian Baltes and Paul Ralph. 2020. Sampling in Software Engineering Research: A Critical Review and Guidelines. CoRRabs/2002.07764 (2020). https://arxiv.org/abs/2002.07764
 
@@ -134,4 +134,4 @@ Please follow the [ICSE formatting guidelines](https://conf.researchr.org/track/
 
 [^Feldt]: Robert Feldt, Thomas Zimmermann, Gunnar R. Bergersen, Davide Falessi, AndreasJedlitschka, Natalia Juristo, Jürgen Münch, Markku Oivo, Per Runeson, MartinShepperd, Dag I. K. Sjøberg, and Burak Turhan. 2018. Four commentaries on theuse of students and professionals in empirical software engineering experiments.Empirical Software Engineering23, 6 (Nov. 2018), 3801–3820.  https://doi.org/10.1007/s10664-018-9655-0
 
-[^Danilova]: Anastasia Danilova, Alena Naiakshina, Stefan Horstmann, and Matthew Smith. 2021.  Do you Really Code? Designing and Evaluating Screening Questions forOnline Surveys with Programmers. In2021 IEEE/ACM 43rd International Conferenceon Software Engineering (ICSE). IEEE.  https://doi.org/10.1109/icse43902.2021.0005
+[^Danilova]: Anastasia Danilova, Alena Naiakshina, Stefan Horstmann, and Matthew Smith. 2021.  Do you Really Code? Designing and Evaluating Screening Questions forOnline Surveys with Programmers. In2021 IEEE/ACM 43rd International Conferenceon Software Engineering (ICSE). IEEE.  https://dl.acm.org/doi/abs/10.1109/ICSE43902.2021.00057
