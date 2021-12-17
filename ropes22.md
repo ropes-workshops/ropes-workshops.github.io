@@ -118,9 +118,9 @@ People are invited to submit short, 2 page papers that encompass the following c
 * summaries of previously published work that involved significant participant recruitment challenges, i.e. an experience report;
 * extended abstracts of ongoing work or challenges.
 
-In all cases, papers should be no more than 2 pages. We will handle submissions via Google Form and ask that authors self-host submissions. Accepted papers will then be stored on the workshop home page. All papers will be reviewed by the PC for suitability to the topics, but we hope to accept all on-topic submissions. 
+In all cases, papers should be no more than 2 pages. All workshop papers should be submitted electronically in PDF format through the [EasyChair workshop website](https://easychair.org/conferences/?conf=ropes22). Accepted papers will then be hosted on the workshop home page. All papers will be reviewed by the PC for suitability to the topics, but we hope to accept all on-topic submissions. 
 
-The workshop outcome will be an extended workshop summary for a venue such as Software Engineering Notes or IEEE Software.
+The workshop outcome will be an extended paper summarizing the workshop for a venue such as Software Engineering Notes or IEEE Software.
 
 ### Format
 Please follow the [ICSE formatting guidelines](https://conf.researchr.org/track/icse-2022/icse-2022-papers#Call-for-Papers) but anonymization is not required. 
