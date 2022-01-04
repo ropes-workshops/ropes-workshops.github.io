@@ -19,7 +19,7 @@ There are also new, potentially useful tools for crowd-sourcing research, such a
 
 ## Topics of Interest
 
-ROPES 2021 seeks contributions addressing, but not limited to, the following
+ROPES 2022 seeks contributions addressing, but not limited to, the following
 topics related to recruitment of participants in empirical software engineering:
 
 *  strategies for new platforms like [Prolific](https://www.prolific.co), such as payment and filtering; 
@@ -62,7 +62,7 @@ Times will be Eastern Standard Time (EST, UTC-5)
 
 ## Submission Guidelines 
 
-Workshop papers must follow the [ICSE 2021 Format and Submission Guideline](https://conf.researchr.org/track/icse-2021/icse-2021-papers#Call-for-Papers), but will use a *single blind* submission process. All submitted papers will be reviewed on the basis of technical quality, relevance, significance, and clarity by the program committee. All workshop papers should be submitted electronically in PDF format through the [EasyChair workshop website](https://easychair.org/conferences/?conf=ropes22). Accepted papers will become part of the workshop proceedings.
+Workshop papers must follow the [ICSE 2022 Format and Submission Guideline](https://conf.researchr.org/track/icse-2022/icse-2022-papers#Call-for-Papers), but will use a *single blind* submission process. All submitted papers will be reviewed on the basis of technical quality, relevance, significance, and clarity by the program committee. All workshop papers should be submitted electronically in PDF format through the [EasyChair workshop website](https://easychair.org/conferences/?conf=ropes22). Accepted papers will become part of the workshop proceedings.
 
 ## Important Dates 
 
