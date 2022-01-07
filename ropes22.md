@@ -7,8 +7,8 @@ subtitle: Official web page of the first edition of the ROPES international work
 # 1st International Workshop on Recruiting Participants for Empirical Software Engineering (RoPES'22)  
 
 - Co-located with [ICSE 2022](https://conf.researchr.org/home/icse-2022) 
-- Virtual/In Person
-- May/June X, 2022
+- Virtual
+- May 17, 2022
 
 
 ## Theme & Goals
@@ -43,7 +43,7 @@ topics related to recruitment of participants in empirical software engineering:
 
 TBD. 
 
-## Workshop Program 
+## Workshop Program (tentative)
 
 Times will be Eastern Standard Time (EST, UTC-5)
 
