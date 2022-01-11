@@ -68,7 +68,7 @@ Workshop papers must follow the [ICSE 2022 Format and Submission Guideline](http
 
 | Event | Deadline |
 | ---- | --- |
-| PAPER SUBMISSION | January 14, 2022 |
+| PAPER SUBMISSION | January 21, 2022 |
 |MAIN TRACK AUTHOR NOTIFICATION | February 18, 2022|
 |CAMERA-READY | March 18, 2022 |
 | DATE OF WORKSHOP | TBD |
