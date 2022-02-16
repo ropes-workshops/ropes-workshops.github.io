@@ -100,6 +100,7 @@ The OC + the following generous individuals below:
 | Davide     | Fucci           | HITeC, University of Hamburg                                   |                                               |
 | Fabian     | Gilson          | University of Canterbury                                       |                                               |
 | Valentina  | Lenarduzzi      | LUT University                                                 |                                               |
+| Tamara | Lopez | The Open University | 
 | Daniel     | Mendez          | Blekinge Institute of Technology, Sweden, and fortiss, Germany |                                               |
 | Kevin      | Moran           | College of William & Mary                                      |                                               |
 | Nicole     | Novielli        | Dipartimento di Informatica, University of Bari                |                                               |
@@ -110,7 +111,8 @@ The OC + the following generous individuals below:
 | Igor       | Scaliante Wiese | Federal University of Technology – Paraná - UTFPR              |                                               |
 | Janet      | Siegmund        | Chemnitz University of Technology                              |                                               |
 | Melina     | Vidoni          | Australian National University, CECS School of Computing       |                                               |
-| Andy       | Zaidman         | Delft University of Technology                                 |
+| Andy       | Zaidman         | Delft University of Technology                                 |     |
+
 
 ## Call for Papers 
 People are invited to submit short, 2 page papers that encompass the following categories and pertain to the workshop themes:
