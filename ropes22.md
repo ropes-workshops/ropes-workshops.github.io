@@ -41,7 +41,36 @@ topics related to recruitment of participants in empirical software engineering:
 
 ## Keynotes
 
-TBD. 
+[Jason Jacques](https://jsonj.co.uk). University of Cambridge  [Intelligent Interactive Systems](http://www-edc.eng.cam.ac.uk/research/intelligentinteractivesystems/). **Title**: TBD.
+
+Bio: Jason is a Research Associate in the [Intelligent Interactive Systems](http://www-edc.eng.cam.ac.uk/research/intelligentinteractivesystems/) group. Jason's research is focused on both the micro- and macro-impacts of digital technology on people and society, with extensive background in many areas of human-computer interaction. Research topics include economics, crowdsourcing, software development, ubiquitous computing, and interface design; including a focus on human-factors, engineering design, user behaviour, and digital markets at internet-scale, particularly as they extend and shape broader policy. His current work involves the investigation and application of mobile crowdsourcing.
+
+Jason is a member of the [Centre for Science and Policy (CSaP)](http://www.csap.cam.ac.uk/about-csap/people/our-network/) network, and is interested in not only the application of emerging technologies but their impact on wider society. Jason undertook the first two years of his PhD study at the [University of St Andrews](http://www.st-andrews.ac.uk/), as a member of the [SACHI](https://sachi.cs.st-andrews.ac.uk/) research group. He completed his PhD at the [University of Cambridge](http://www.cam.ac.uk/), supervised by [Dr Per Ola Kristensson](http://www-edc.eng.cam.ac.uk/people/pok21.html).
+
+## Accepted Papers
+
+|  #   |                           Authors                            |                     Title/Paper PDF link                     |
+| :--: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|  1   |                Austen Rainer and Claes Wohlin                | [Recruiting participants and sampling items of interest in field studies of software engineering](files/ropes2022/papers/ROPES_22_paper_1.pdf) |
+|  2   |    Steffen Herbold, Alexander Trautsch and Benjamin Ledel    | The researcher turk in action: experiences from the LLTC4J project |
+|  3   | [Melina Vidoni](http://melvidoni.rbind.io/) and [Nicolás E. Díaz Ferreyra](https://www.ndiaz-ferreyra.com/) | Should I Get Involved? On the Privacy Perils of Mining Software Repositories for Research Participants |
+|  4   | Brittany Reid, Markus Wagner, Marcelo d'Amorim and Christoph Treude | Software Engineering User Study Recruitment on Prolific: An Experience Report |
+|  5   | [Mohammad Tahaei](https://mohammad.tahaei.com/) and [Kami Vaniea](https://vaniea.com/) | Lessons Learned From Recruiting Participants With Programming Skills for Empirical Privacy and Security Studies |
+|  6   | Mary Sánchez-Gordón and [Ricardo Colomo-Palacios](http://www.rcolomo.com/) | Challenges in Recruiting Andean Indigenous Participants for Software Engineering Research |
+|  7   | [Helen Sharp](http://mcs.open.ac.uk/hcs2), Tamara Lopez and Michel Wermelinger | Informed consent and participant recruitment in studies of software practice |
+|  8   | [Carolin Brandt](https://carolin-brandt.de/) and [Andy Zaidman](http://www.st.ewi.tudelft.nl/~zaidman) | Strategies and Challenges in Recruiting Interview Participants for a Qualitative Evaluation |
+|  9   |                         Daniel Russo                         |          Recruiting Software Engineers on Prolific           |
+|  10  |         [Chris Brown](https://chbrown13.github.io/)          |       Nudging Developers to Participate in SE Research       |
+|  11  |              Elisa Hartmann and Janet Siegmund               | How (Not) to Recruit Students Outside of Computer Science: An Experience Report |
+|  12  | [Felipe Ebert](https://felipeebert.github.io/), [Alexander Serebrenik](http://www.win.tue.nl/~aserebre/), [Christoph Treude](https://ctreude.ca/), [Nicole Novielli](https://collab.di.uniba.it/nicole/) and [Fernando Castor](http://www.cin.ufpe.br/~fjclf) | On Recruiting Experienced GitHub Contributors for Interviews and Surveys on Prolific |
+|  13  | Nikhil Patnaik, Joseph Hallett, Mohammad Tahaei and Awais Rashid | If You Build It, Will They Come? Developer Recruitment for Security Studies |
+|  14  | Marco Gutfleisch, Jan H. Klemmer, Yasemin Acar, Sascha Fahl and Martina Angela Sasse | Recruiting Software Professionals for Research Studies: Lessons Learned with the Freelancer Platform Upwork |
+|  15  | Irum Rauf, Tamara Lopez, [Helen Sharp](http://mcs.open.ac.uk/hcs2) and Marian Petre | Challenges of Recruiting Developers in Multidisciplinary Studies |
+|  16  | [Oscar Dieste](http://www.grise.upm.es/miembros/oscar/), Davide Fucci, [Valentina Lenarduzzi](http://www.valentinalenarduzzi.it/) and [Sira Vegas](http://www.grise.upm.es/htdocs/miembros/sira/) |  Population Characterization Comes Before Sample Selection   |
+|  17  | [Alena Naiakshina](https://informatik.rub.de/naiakshina/), Anastasia Danilova and [Matthew Smith](https://www.besec.uni-bonn.de/index.php/team/matthew-smith/) | Lessons Learned in Five Years of Conducting Security Studies With Software Developers |
+|  18  |                Michael Coblenz and Felix Sosa                |   Using Games to Broaden Audiences for Programming Studies   |
+|  19  |    Matthew Smith, Anastasia Danilova and Alena Naiakshina    | A Meta-Research Agenda for Recruitment and Study Design for Developer Studies |
+|  20  |        Madeline Endres, Westley Weimer and Amir Kamil        |   Making a Gamble: Recruiting SE Participants on a Budget    |
 
 ## Workshop Program (tentative)
 
@@ -50,11 +79,11 @@ Times will be Eastern Standard Time (EST, UTC-5)
 | Time | Title | Who |
 | --- |  --- | --- |
 | 9:00 AM | *Welcome* | RoPES organizers |
-| 9:15 AM | *Keynote* | TBD | 
+| 9:15 AM | *Keynote* | Jason Jacques |
 | 10:00 AM | *Break* ||
 |10:15 AM | Session 1: Finding Participants | |
 | 11:30 AM | Discussion session | |
-| 12:00PM | Lunch || 
+| 12:00PM | Lunch ||
 | 1:30PM | Session 2: Keeping Participants | |
 | 3:00 PM | *Break* ||
 | 3:15 PM | Session 3: Paper Brainstorming | Organizers|
