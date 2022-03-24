@@ -82,13 +82,13 @@ Times will be Eastern Standard Time (EST, UTC-5)
 | 9:05 AM | *Keynote* | Jason Jacques |
 | 10:00 AM | *Break* ||
 |10:15 AM | Session 1: Finding Participants | # 20,  #11, #10,  #2, #18, #5, #6 |
-| 11:00 AM | Break | |
-| 11:15 AM | Session 2: Platforms and Participants | #14,#9,#12, #4, #16, #8 |
-| 12:00PM | Lunch Break ||
-| 1:00PM | Session 3: Ethics, lessons learned, and meta concerns | #19,  #17, #16, #15, #7, #1, #3 |
-| 3:00 PM | *Break* ||
-| 3:15 PM | Session 3: Paper Brainstorming | Organizers/Miro/other tools |
-| 4:30 PM | Closing, *End of RoPES 2022* | |
+| 11:15 AM | Break | |
+| 11:30 AM | Session 2: Platforms and Participants | #14,#9,#12, #4, #16, #8 |
+| 12:30PM | Lunch Break ||
+| 1:30PM | Session 3: Ethics, lessons learned, and meta concerns | #19,  #17, #16, #15, #7, #1, #3 |
+| 2:30PM | *Break* ||
+| 2:45 PM | Session 4: Paper Brainstorming | Organizers using Miro/other tools |
+| 4:00 PM | Closing, *End of RoPES 2022* | |
 
 ## Submission Guidelines 
 
