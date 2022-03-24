@@ -51,7 +51,7 @@ Jason is a member of the [Centre for Science and Policy (CSaP)](http://www.csap.
 
 |  #   |                           Authors                            |                     Title/Paper PDF link                     |
 | :--: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|  1   |                Austen Rainer and Claes Wohlin                | [Recruiting participants and sampling items of interest in field studies of software engineering](files/ropes2022/papers/ROPES_22_paper_1.pdf) |
+|  1   |                Austen Rainer and Claes Wohlin                | [Recruiting participants and sampling items of interest in field studies of software engineering](blob/master/files/ropes2022/ROPES_22_paper_1.pdf) |
 |  2   |    Steffen Herbold, Alexander Trautsch and Benjamin Ledel    | The researcher turk in action: experiences from the LLTC4J project |
 |  3   | [Melina Vidoni](http://melvidoni.rbind.io/) and [Nicolás E. Díaz Ferreyra](https://www.ndiaz-ferreyra.com/) | Should I Get Involved? On the Privacy Perils of Mining Software Repositories for Research Participants |
 |  4   | Brittany Reid, Markus Wagner, Marcelo d'Amorim and Christoph Treude | Software Engineering User Study Recruitment on Prolific: An Experience Report |
