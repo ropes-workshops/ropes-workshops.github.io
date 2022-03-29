@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-subtitle: Publications related to ROPES
+subtitle: Publications related to RoPES
 ---
 
-This page presents all paper accepted in every ROPES workshop so far. 
+* [RoPES 2022 accepted papers](https://ropes-workshops.github.io/ropes22/)
