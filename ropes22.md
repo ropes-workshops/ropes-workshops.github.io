@@ -10,6 +10,7 @@ subtitle: Official web page of the first edition of the ROPES international work
 - Virtual
 - May 17, 2022
 
+*Registration: https://conf.researchr.org/attending/icse-2022/registration*
 
 ## Theme & Goals
 
@@ -74,18 +75,18 @@ Jason is a member of the [Centre for Science and Policy (CSaP)](http://www.csap.
 
 ## Workshop Program (tentative)
 
-Times will be Eastern Standard Time (EST, UTC-5)
+Times will be Eastern Standard Time (EST, UTC-5) **May 17 2022** on Midspace, ICSE's virtualization platform.
 
 | Time | Title | Who |
 | --- |  --- | --- |
 | 9:00 AM | *Welcome and overview of the workshop* | RoPES organizers |
-| 9:05 AM | *Keynote* | Jason Jacques |
+| 9:05 AM | *Keynote* | Jason Jacques (introduced by N Ernst) |
 | 10:00 AM | *Break* ||
-|10:15 AM | Session 1: Finding Participants | # 20,  #11, #10,  #2, #18, #5, #6 |
+|10:15 AM | Session 1: Finding Participants | # 20,  #11, #10,  #2, #18, #5, #6 (chair: P. Chatterjee)|
 | 11:15 AM | Break | |
-| 11:30 AM | Session 2: Platforms and Participants | #14,#9,#12, #4, #16, #8 |
+| 11:30 AM | Session 2: Platforms and Participants | #14,#9,#12, #4, #16, #8 (chair: B. Sharif) |
 | 12:30PM | Lunch Break ||
-| 1:30PM | Session 3: Ethics, lessons learned, and meta concerns | #19,  #17, #16, #15, #7, #1, #3 |
+| 1:30PM | Session 3: Ethics, lessons learned, and meta concerns | #19,  #17, #16, #15, #7, #1, #3 (chair: J. Carver) |
 | 2:30PM | *Break* ||
 | 2:45 PM | Session 4: Paper Brainstorming | Organizers using Miro/other tools |
 | 4:00 PM | Closing, *End of RoPES 2022* | |
@@ -101,7 +102,7 @@ Workshop papers must follow the [ICSE 2022 Format and Submission Guideline](http
 | PAPER SUBMISSION | January 21, 2022 |
 |MAIN TRACK AUTHOR NOTIFICATION | February 18, 2022|
 |CAMERA-READY | March 18, 2022 |
-| DATE OF WORKSHOP | TBD |
+| DATE OF WORKSHOP | May 17, 2022 |
 
 ## Organizing Committee 
 
