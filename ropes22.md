@@ -73,18 +73,18 @@ Jason is a member of the [Centre for Science and Policy (CSaP)](http://www.csap.
 |  19  |    Matthew Smith, Anastasia Danilova and Alena Naiakshina    | [A Meta-Research Agenda for Recruitment and Study Design for Developer Studies](https://github.com/ropes-workshops/ropes-workshops.github.io/raw/master/files/ropes2022/ROPES_22_paper_19.pdf) |
 |  20  |        Madeline Endres, Westley Weimer and Amir Kamil        | [Making a Gamble: Recruiting SE Participants on a Budget](https://github.com/ropes-workshops/ropes-workshops.github.io/raw/master/files/ropes2022/ROPES_22_paper_20.pdf) |
 
-## Workshop Program (tentative)
+## Workshop Program (* final *)
 
-Times will be Eastern Standard Time (EST, UTC-5) **May 17 2022** on Midspace, ICSE's virtualization platform.
+Times will be **Eastern Daylight Time (EDT, UTC-4) May 17 2022** on [Midspace, ICSE's virtualization platform](https://in.midspace.app/conference/icse2022).
 
 | Time | Title | Who |
 | --- |  --- | --- |
 | 9:00 AM | *Welcome and overview of the workshop* | RoPES organizers |
 | 9:05 AM | *Keynote* | Jason Jacques (introduced by N Ernst) |
 | 10:00 AM | *Break* ||
-|10:15 AM | Session 1: Finding Participants | # 20,  #11, #10,  #2, #18, #5, #6 (chair: P. Chatterjee)|
+|10:15 AM | Session 1: Finding Participants | #20,  #11, #10,  #2, #18, #5, #6 (chair: P. Chatterjee)|
 | 11:15 AM | Break | |
-| 11:30 AM | Session 2: Platforms and Participants | #14,#9,#12, #4, #16, #8 (chair: B. Sharif) |
+| 11:30 AM | Session 2: Platforms and Participants | #14,#9, #12, #4, #13, #8 (chair: B. Sharif) |
 | 12:30PM | Lunch Break ||
 | 1:30PM | Session 3: Ethics, lessons learned, and meta concerns | #19,  #17, #16, #15, #7, #1, #3 (chair: J. Carver) |
 | 2:30PM | *Break* ||
