@@ -42,11 +42,17 @@ topics related to recruitment of participants in empirical software engineering:
 
 ## Keynotes
 
-[Jason Jacques](https://jsonj.co.uk). University of Cambridge  [Intelligent Interactive Systems](http://www-edc.eng.cam.ac.uk/research/intelligentinteractivesystems/). **Title**: TBD.
+[Jason Jacques](https://jsonj.co.uk). City, University of London. 
 
-Bio: Jason is a Research Associate in the [Intelligent Interactive Systems](http://www-edc.eng.cam.ac.uk/research/intelligentinteractivesystems/) group. Jason's research is focused on both the micro- and macro-impacts of digital technology on people and society, with extensive background in many areas of human-computer interaction. Research topics include economics, crowdsourcing, software development, ubiquitous computing, and interface design; including a focus on human-factors, engineering design, user behaviour, and digital markets at internet-scale, particularly as they extend and shape broader policy. His current work involves the investigation and application of mobile crowdsourcing.
+**Title**: Recruiting Developers at Scale: the case for (and against) crowdsourcing
 
-Jason is a member of the [Centre for Science and Policy (CSaP)](http://www.csap.cam.ac.uk/about-csap/people/our-network/) network, and is interested in not only the application of emerging technologies but their impact on wider society. Jason undertook the first two years of his PhD study at the [University of St Andrews](http://www.st-andrews.ac.uk/), as a member of the [SACHI](https://sachi.cs.st-andrews.ac.uk/) research group. He completed his PhD at the [University of Cambridge](http://www.cam.ac.uk/), supervised by [Dr Per Ola Kristensson](http://www-edc.eng.cam.ac.uk/people/pok21.html).
+**Abstract** 
+Recruiting programmers for software development studies remains challenging. Costs can be high, samples may be small, and the impact of unintentional selection bias is easy to overlook. Crowdsourcing – the recruitment and use of online labour – has seen notable success in lowering costs and broadening access to data in areas such as machine learning and human computer interaction. Here, we consider the opportunities afforded by web-based crowdsourcing platforms: the potential to rapidly reach large numbers of software developers at low-cost. We discuss some of the challenges arising from large-scale participation, such as user validation and data analysis. And, finally, we look forward as we consider and reflect upon the increasing flexibility, relevance, and use of web-technologies in the developer experience and development lifecycle.
+
+**Bio**: 
+Jason is a Lecturer in the Department of Computer Science, at City, University of London. Jason's research is focused on both the micro- and macro-impacts of digital technology on people and society, with extensive background in many areas of human-computer interaction. Research topics include economics, crowdsourcing, software development, ubiquitous computing, and interface design; including a focus on human-factors, engineering design, user behaviour, and digital markets at internet-scale, particularly as they extend and shape broader policy. His current work is focused on both the micro- and macro-impacts of digital technology on people and society.
+
+Jason is a member of the SIGCHI Sustainability Committee, underlining his interest not only in the application and use of novel technologies but the broader impact of both research and practice on wider society. Jason began his postgraduate work at the University of St Andrews, as a member of the SACHI research group, and completed his PhD at the University of Cambridge.
 
 ## Accepted Papers
 
